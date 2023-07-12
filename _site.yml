@@ -1,0 +1,14 @@
+name: "jb-santos"
+navbar:
+  title: "John B. Santos"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<jsanto27@uwo.ca>
+    - icon: fa-github fa-lg
+      href: http://github.com/jb-santos/
+output:
+  html_document:
+    theme: sandstone
