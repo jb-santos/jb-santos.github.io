@@ -1,10 +1,6 @@
 ---
 title: "John B. Santos"
-output: 
-  github_document:
-    html_preview: false
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 
