@@ -2,13 +2,17 @@
 title: "John B. Santos"
 ---
 
+
 ## About
+
 
 I am a PhD student in the [Department of Political Science at the University of Western Ontario](https://politicalscience.uwo.ca/index.html). My major fields are Canadian Politics and Comparative Politics. My research interests include public opinion, electoral behaviour, parties and elections, and quantitative research methods (including the development of [statistical software](https://github.com/jb-santos/svyEffects)). My full CV is below.
 
 Previously, I was Data Scientist at [Janet Brown Opinion Research](http://planetjanet.ca/), a Calgary-based public opinion polling firm with a long track record of accuracy. Most recently, it conducted [the most accurate poll of the 2019 Alberta election](https://static.wixstatic.com/media/586d9d_ff795606f0704167b187ac7585e06c33~mv2.png/v1/fill/w_992,h_815,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/586d9d_ff795606f0704167b187ac7585e06c33~mv2.png), having results within the margin of error for all four main parties at the provincial and regional level (i.e. Calgary, Edmonton, and Rest of Alberta). It has also completed several large-scale research projects for [CBC Alberta](https://www.planetjanet.ca/special-projects). One of the most popular bits of information to come from these projects is this [article on vaccine hesitancy](https://www.cbc.ca/news/canada/calgary/road-ahead-poll-alberta-covid-vaccine-hesitant-1.6024067) in Alberta.
 
+
 ## Education
+
 
 PhD in Political Science, University of Western Ontario (expected completion: 2024).
 
@@ -69,7 +73,9 @@ Santos, John. “Talking About Terror: Authoritarian-Libertarian Dimensions in P
 
 Bratt, Duane, Janet Brown and John Santos. “Sign Wars: Election Signs in the 2014 Alberta by-elections.” Paper presented at the annual meeting of the Prairie Political Science Association. Banff, Alberta, Canada. September 2015.
 
+
 ## Awards and Scholarships
+
 
 External:
 
@@ -86,7 +92,9 @@ Internal:
 - 2018: Best MA Term Paper Award, “Bringing the Mind Back In: Why Political Science Needs More Psychology,” for POLI 673, Comparative Politics – Institutions.
 - 2016: University of Calgary Department of Political Science Special Recruitment Award for Politics and Gender ($1,000).
 
+
 # Teaching Experience
+
 
 - Co-facilitator at Workshops on Social Science (WSSR), Concordia University:
     - “Public Opinion and Polling: Is Western Alienation for Real?” Workshop co-facilitated with Janet Brown and the Workshops on Social Science (WSSR) at Concordia University, Montreal, 14 February 2020.
