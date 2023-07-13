@@ -4,6 +4,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Education"
+      href: education.html
+    - text: "Publications & Awards"
+      href: publications.html
+    - text: "Teaching"
+      href: teaching.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<jsanto27@uwo.ca>
@@ -11,4 +17,4 @@ navbar:
       href: http://github.com/jb-santos/
 output:
   html_document:
-    theme: darkly
+    theme: paper
