@@ -1,7 +1,22 @@
 ---
 title: "John B. Santos"
-output: github_document
+output: 
+  github_document:
+    html_preview: false
+  html_document:
+    keep_md: true
 ---
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/"
+)
+```
 
 ## About
 
