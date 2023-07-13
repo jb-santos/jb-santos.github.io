@@ -7,6 +7,15 @@ output:
     keep_md: true
 ---
 
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  collapse = FALSE
+)
+```
+
 ## About
 
 I am a PhD student in the [Department of Political Science at the University of Western Ontario](https://politicalscience.uwo.ca/index.html). My major fields are Canadian Politics and Comparative Politics. My research interests include public opinion, electoral behaviour, parties and elections, and quantitative research methods (including the development of [statistical software](https://github.com/jb-santos/svyEffects)). My full CV is below.
