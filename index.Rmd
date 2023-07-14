@@ -1,0 +1,31 @@
+---
+title: "About"
+---
+
+
+--------------------------------------------------------------------------------
+
+
+:::: {style="display: flex; grid-column-gap: 20px;"}
+
+::: {.column width="30%"}
+
+
+<img src="jbs.jpg" style="width:250px">
+
+Welcome to my personal website! 
+
+My GitHub (and `R` packages) are here: https://github.com/jb-santos.
+
+:::
+
+
+::: {.column width="70%"}
+
+I am a PhD student in the [Department of Political Science at the University of Western Ontario](https://politicalscience.uwo.ca/index.html). My major fields are Canadian Politics and Comparative Politics. My research interests include public opinion, electoral behaviour, parties and elections, and quantitative research methods (including the development of [statistical software](https://github.com/jb-santos/svyEffects)). My CV can be found [here](jbs_cv.pdf).
+
+Previously, I was Data Scientist at [Janet Brown Opinion Research](http://planetjanet.ca/), a Calgary-based public opinion polling firm with a long track record of accuracy. Most recently, it conducted [the most accurate poll of the 2023 Alberta election](https://static.wixstatic.com/media/586d9d_ff795606f0704167b187ac7585e06c33~mv2.png/v1/fill/w_992,h_815,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/586d9d_ff795606f0704167b187ac7585e06c33~mv2.png), having results within the margin of error for all four main parties at the provincial and regional level (i.e. Calgary, Edmonton, and Rest of Alberta). It has also completed several large-scale research projects for [CBC Alberta](https://www.planetjanet.ca/special-projects). One of the most popular bits of information to come from these projects is this [article on vaccine hesitancy](https://www.cbc.ca/news/canada/calgary/road-ahead-poll-alberta-covid-vaccine-hesitant-1.6024067) in Alberta.
+
+:::
+
+::::

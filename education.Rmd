@@ -1,0 +1,45 @@
+---
+title: "Education"
+---
+
+
+--------------------------------------------------------------------------------
+
+
+PhD in Political Science, University of Western Ontario (expected completion: 2024).
+
+- Dissertation title: "What structures Canadians’ environmental policy preferences?" 
+- Fields: Canadian Politics and Comparative Politics.
+
+MA in Political Science, University of Calgary (2018).
+
+- Thesis: “Direct and Indirect Effects of Authoritarianism on Policy Preferences in Canada.” DOI:10.11575/PRISM/33072.
+- Fields: Canadian Politics and Comparative Politics.
+
+BA (Hons.) in Political Science, University of Calgary (2010).
+
+
+Methods training:
+
+- Maximum Likelihood Estimation (with Dave Armstrong, Western University, Fall 2021).
+- Regression and Causal Inference (with Mathieu Turgeon, Western University, Fall 2021).
+- Qualitative Methods (with Martin Horak, Western University, Winter 2021).
+- Machine Learning (with Dave Armstrong, Western University, Fall 2020).
+- Regression Analysis II (with Tim McDaniel, ICPSR, Summer 2017).
+- Measurement, Scaling, and Dimensional Analysis (with Bill Jacoby, ICPSR, Summer 2017).
+- Research Methods in Race and Ethnicity (with Ozan Kalkan and Jamil Scott, ICPSR, Summer 2017).
+
+
+Technical skills:
+
+- `R` and `RStudio`: advanced proficiency including programming, package development, `Shiny` apps, and basic web scraping and text analysis.
+- `Stata`: intermediate proficiency (data management, modelling, descriptive statistics).
+- `SPSS`: basic proficiency (data management, descriptive statistics).
+- `Python`: some proficiency (web scraping).
+- Statistical techniques:
+    - OLS & MLE estimation and post-estimation
+    - Analysis of survey data
+    - Measurement models (EFA, PCA, IRT)
+    - SEM (CFA, path analysis)
+    - Cluster analysis (kmeans, LCA/LPA, model-based clustering, hierarchical clustering)
+    - Text analysis (LDA/topic modelling)
