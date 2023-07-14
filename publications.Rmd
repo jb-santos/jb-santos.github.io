@@ -45,42 +45,50 @@ Brown, J. & **Santos, J.B.** (2019). “Marginally Better: Polling in the 2015 A
 ### Internal
 
 - 2018: University of Calgary Department of Political Science Thesis Completion Award ($750).
-- 2018: Best MA Term Paper Award, “Bringing the Mind Back In: Why Political Science Needs More Psychology,” for POLI 673, Comparative Politics – Institutions.
+- 2018: Best MA Term Paper Award, *“Bringing the Mind Back In: Why Political Science Needs More Psychology,”* for POLI 673, Comparative Politics – Institutions.
 - 2016: University of Calgary Department of Political Science Special Recruitment Award for Politics and Gender ($1,000).
+
+
+--------------------------------------------------------------------------------
 
 
 ## Conference Presentations
 
 
-Santos, John. “svyEffects: An R package for calculating predicted probabilities and their differences for survey-weighted logit models.” Paper presented at MapleMeth 2023. Western University, London, Ontario, Canada. January 2023.
+Santos, John. *“svyEffects: An R package for calculating predicted probabilities and their differences for survey-weighted logit models.”* Paper presented at MapleMeth 2023. Western University, London, Ontario, Canada. January 2023.
 
-Santos, John. “General political knowledge, climate knowledge, political orientations, and carbon tax support in Canada.” Paper presented at the ReClimate workshop on climate change misinformation. Carleton University, Ottawa, Ontario, Canada. January 2023.
+Santos, John. *“General political knowledge, climate knowledge, political orientations, and carbon tax support in Canada.”* Paper presented at the ReClimate workshop on climate change misinformation. Carleton University, Ottawa, Ontario, Canada. January 2023.
 
-Decillia, Brooks, John Santos, and Melanee Thomas. “Partisan and ideological compatriots’ cueing to political rhetoric in the news media about the economy and energy transition in Alberta.” Paper presented at the annual meeting of the Canadian Political Science Association. Online. June 2021.
+Decillia, Brooks, John Santos, and Melanee Thomas. *“Partisan and ideological compatriots’ cueing to political rhetoric in the news media about the economy and energy transition in Alberta.”* Paper presented at the annual meeting of the Canadian Political Science Association. Online. June 2021.
 
-Decillia, Brooks, John Santos, and Janet Brown. “Media Narratives and Polling in the 2019 Alberta Election.” Paper presented at the annual meeting of the Prairie Political Science Association. Banff, Alberta, Canada. September 2019.
+Decillia, Brooks, John Santos, and Janet Brown. *“Media Narratives and Polling in the 2019 Alberta Election.”* Paper presented at the annual meeting of the Prairie Political Science Association. Banff, Alberta, Canada. September 2019.
 
-Sayers, Anthony M, David K. Stewart, and John Santos. “Four Decades of Dominance: Explaining the Tory Dynasty in Alberta.” Paper presented at the annual meeting of the Canadian Political Science Association. Vancouver, British Columbia, Canada. June 2019.
+Sayers, Anthony M, David K. Stewart, and John Santos. *“Four Decades of Dominance: Explaining the Tory Dynasty in Alberta.”* Paper presented at the annual meeting of the Canadian Political Science Association. Vancouver, British Columbia, Canada. June 2019.
 
-Santos, John. “Authoritarianism and Policy Preference in Canada: The Case of the Niqab Ban.” Paper presented at the annual meeting of the Prairie Political Science Association, Banff, Alberta, Canada, September 2018.
-Santos, John. “Talking About Terror: Authoritarian-Libertarian Dimensions in Parliamentarians’ Speeches in the House of Commons.” Paper presented at the annual meeting of the Prairie Political Science Association, Banff, Alberta, Canada. September 2017.
+Santos, John. *“Authoritarianism and Policy Preference in Canada: The Case of the Niqab Ban.”* Paper presented at the annual meeting of the Prairie Political Science Association, Banff, Alberta, Canada, September 2018.
 
-Bratt, Duane, Janet Brown and John Santos. “Sign Wars: Election Signs in the 2014 Alberta by-elections.” Paper presented at the annual meeting of the Prairie Political Science Association. Banff, Alberta, Canada. September 2015.
+Santos, John. *“Talking About Terror: Authoritarian-Libertarian Dimensions in Parliamentarians’ Speeches in the House of Commons.”* Paper presented at the annual meeting of the Prairie Political Science Association, Banff, Alberta, Canada. September 2017.
+
+Bratt, Duane, Janet Brown and John Santos. *“Sign Wars: Election Signs in the 2014 Alberta by-elections.”* Paper presented at the annual meeting of the Prairie Political Science Association. Banff, Alberta, Canada. September 2015.
+
+
+
+--------------------------------------------------------------------------------
 
 
 ## Non-academic Publications and Activities
 
 
-Santos, John. “CBC poll: Results give us an idea of who the vaccine hesitant in Alberta really are.”  CBC News. 14 May, 2021. https://www.cbc.ca/news/canada/calgary/road-ahead-poll-alberta-covid-vaccine-hesitant-1.6024067.
+Santos, John. “CBC poll: Results give us an idea of who the vaccine hesitant in Alberta really are.”  *CBC News*. 14 May, 2021. https://www.cbc.ca/news/canada/calgary/road-ahead-poll-alberta-covid-vaccine-hesitant-1.6024067.
 
-Santos, John. “Partisan biases influence ‘the truths we cling to’ about Alberta’s economy.” CBC News. 15 May, 2018. https://www.cbc.ca/news/canada/calgary/partisan-lenses-colour-albertans-view-economic-recovery-1.4655284.
+Santos, John. “Partisan biases influence ‘the truths we cling to’ about Alberta’s economy.” *CBC News*. 15 May, 2018. https://www.cbc.ca/news/canada/calgary/partisan-lenses-colour-albertans-view-economic-recovery-1.4655284.
 
-Bratt, Duane, Janet Brown, and John Santos. “Signs point to a Hehr win in Calgary-Centre.” Calgary Herald. 15 October 2015. https://calgaryherald.com/opinion/columnists/opinion-signs-point-to-hehr-win-in-calgary-centre.
+Bratt, Duane, Janet Brown, and John Santos. “Signs point to a Hehr win in Calgary-Centre.” *Calgary Herald*. 15 October 2015. https://calgaryherald.com/opinion/columnists/opinion-signs-point-to-hehr-win-in-calgary-centre.
 
 
 Political commentator for “Alberta Primetime” on CTV2, CityTV Calgary, and CBC Calgary.
 
 Presenter for Lunchalytics data analyst meet-up group:
 
-- 15 May 2019, Edmonton. “Problems with Polling in Alberta.”
-- 3 December 2019, Calgary.  “Alberta’s Political Culture.”
+- 15 May 2019, Edmonton. *“Problems with Polling in Alberta.”*
+- 3 December 2019, Calgary.  *“Alberta’s Political Culture.”*
