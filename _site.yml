@@ -12,6 +12,8 @@ navbar:
       href: teaching.html
     - text: "C.V."
       href: jbs_cv.pdf
+    - text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=HgkONZQAAAAJ
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<jsanto27@uwo.ca>
@@ -19,4 +21,4 @@ navbar:
       href: http://github.com/jb-santos/
 output:
   html_document:
-    theme: darkly
+    theme: cosmo
