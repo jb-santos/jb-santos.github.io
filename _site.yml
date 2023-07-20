@@ -19,4 +19,4 @@ navbar:
       href: http://github.com/jb-santos/
 output:
   html_document:
-    theme: cosmo
+    theme: darkly
